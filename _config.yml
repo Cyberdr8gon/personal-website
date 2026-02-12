@@ -6,12 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
 middle_name: Maxwell
 last_name: Bateman
-email: sam@bateman.io
+email: sbateman@princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website of Applied Robotics Researcher/Senior Machine Learning Engineer Samuel Maxwell Bateman from the Autonomous Delivery Startup Nuro.
+  Website of Robot Learning PhD Student Samuel Maxwell Bateman at Princeton
 # footer_text: >
 #   The best way to reach me is email.
-keywords: machine learning researcher, robotics researcher, autonomous vehicles, bay area, startup, machine learning, robotics, academic, scientist, nuro, cu boulder # add your own keywords or leave empty
+keywords: machine learning researcher, robotics researcher, autonomous vehicles, phd student, machine learning, robotics, reinforcement learning, diffusion models, academic, scientist, princeton, nuro, cu boulder # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚀 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -106,7 +106,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: SamBateman52199
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
